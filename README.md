@@ -1,9 +1,9 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name: surya pratap singh
+- University Roll No.: 1900290210168
+- Branch: en
+- Section:c
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
